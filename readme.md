@@ -1,5 +1,7 @@
 # Dairy Delights 🌟  
 
+[**Live Demo** 🌺](https://dairy-delights02.netlify.app/home)
+
 **Dairy Delights** is a modern and intuitive web application designed to showcase and sell fresh, high-quality dairy products. Built with cutting-edge web development technologies, this project focuses on delivering a seamless shopping experience while emphasizing sustainability and user satisfaction.  
 
 ---
